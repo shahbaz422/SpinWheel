@@ -12,7 +12,7 @@ Image             |
 
 ### Implementation : 
 ```
- implementation 'com.github.shahbaz422:AdvancedSpinWheel:[latest_version]'
+ implementation 'com.github.shahbaz422:AdvancedSpinWheel:1.0.0'
 
 ```
 
