@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyTextView">
+        <attr name="font" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="LuckySpinnerView">
+        <attr name="lswBackgroundColor" format="color" />
+        <attr name="lswCursor" format="reference" />
+        <attr name="lswCenterImage" format="reference" />
+        <attr name="lswEdgeColor" format="color" />
+        <attr name="lswEdgeWidth" format="integer" />
+        <attr name="lswTopTextColor" format="color" />
+        <attr name="lswTopTextPadding" format="dimension" />
+        <attr name="lswTopTextSize" format="dimension" />
+        <attr name="lswSecondaryTextSize" format="dimension" />
+        <attr name="lswPlaySound" format="boolean" />
+    </declare-styleable>
+
+</resources>

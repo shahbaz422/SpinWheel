@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <com.androtech.spinnertest.custom.spinner.SkinView
+        android:id="@+id/pieView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <ImageView
+        android:id="@+id/cursorView"
+        android:layout_width="102dp"
+        android:layout_height="102dp"
+        android:layout_gravity="center" />
+
+</FrameLayout>
