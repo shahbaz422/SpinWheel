@@ -10,12 +10,6 @@ Image             |
 ![image](https://github.com/shahbaz422/AdvancedSpinWheel/assets/89563148/2aaf97ed-762d-40cd-a506-41bd36628406)  
 
 
-### Implementation : 
-```
- implementation 'com.github.shahbaz422:AdvancedSpinWheel:1.0.0'
-
-```
-
 ### How to use the Spinner: 
 `all the customizations can be done while creating the object`
 
